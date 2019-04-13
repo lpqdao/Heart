@@ -70,5 +70,5 @@ def plot_heart(message, signature, filename):
     pyplot.savefig(filename)
 
 if __name__ == '__main__':
-    plot_heart('More frozen corns?', '\u2019 - Grace',
+    plot_heart('More frozen corns?', ' - Grace',
                'heart-2019-04-12.png')
